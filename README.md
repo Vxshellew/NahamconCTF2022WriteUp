@@ -32,8 +32,9 @@ There is a .zip file called gpx.zip but it is an encrypted file.I need to decryp
 
 4. ![](https://i.imgur.com/nvfDlN5.png)
 
+
 * After clicking on the file and saying open, I selected all the files with the gpx extension and said open. Green roads appeared on the map and our flag was there.
 
 5. ![](https://i.imgur.com/86OszhS.jpg)
 
-`flag{gpx_is_cool}`, Thank you for reading.
+* `flag{gpx_is_cool}`, Thank you for reading.
